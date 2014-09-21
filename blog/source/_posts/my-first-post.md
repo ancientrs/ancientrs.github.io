@@ -8,3 +8,4 @@ tags:
 
 * Yes, it's the first one for me.
 * I use this for test only, and will write meaningful blogs from next one on.
+* 测试一下中文显示情况，嘿嘿
