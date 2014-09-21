@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-email:
+title: <h1>Ancientrs' Home!</h1>
+subtitle: Job is job, progress is progress.
+description: My blog site in github.io by hexo.
+author: Guangxin Jiao
+email: ancientrs@outlook.com
 language:
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
